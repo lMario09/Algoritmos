@@ -1,4 +1,4 @@
-# ALgortimos
+# Algoritmos
 
 ## Repositório para aprender lógica de programação com javascript
 Repositório criado com o objetivo de praticar lógica de programação em javascript utilizando o exercícios do livro "Aprenda Programar com Javascript".
