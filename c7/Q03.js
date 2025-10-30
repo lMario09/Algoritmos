@@ -1,4 +1,4 @@
-function q3Cap7() {
+export function q3Cap7() {
 const livro = {
     titulo: 'O Auto da Compadecida',
     autor: 'Ariano Suassuna',

@@ -1,4 +1,4 @@
-function q18Cap7() {
+export function q18Cap7() {
 const carrosLegais = [
     {nome: 'fusca', ano: 1995},
     {nome: 'Gol', ano: 2010},

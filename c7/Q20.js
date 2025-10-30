@@ -1,4 +1,4 @@
-function q20Cap7() {
+export function q20Cap7() {
 const pessoasLegais = [
     {nome: 'Luis', idade: 17 },
     {nome: 'Carlos', idade: 19 },

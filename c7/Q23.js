@@ -1,4 +1,4 @@
-function q23Cap7() {
+export function q23Cap7() {
 function primeiroNome() {
     let nomeCompleto = "Luis Mário de Moura Leal";
     let nomes = nomeCompleto.split(' ');

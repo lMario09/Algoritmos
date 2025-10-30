@@ -1,4 +1,4 @@
-function q4Cap7() {
+export function q4Cap7() {
 const produto = {
     nome: 'Dell G15',
     preco: 5700,

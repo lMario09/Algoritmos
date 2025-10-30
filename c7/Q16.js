@@ -1,4 +1,4 @@
-function q16Cap7() {
+export function q16Cap7() {
 let arrayNumeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 arrayNumeros.forEach((item) => {
     console.log(item)

@@ -1,4 +1,4 @@
-function q2Cap7() {
+export function q2Cap7() {
 const carro = {
     marca: 'Fiat',
     modelo: 'Uno',
