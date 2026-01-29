@@ -1,4 +1,4 @@
-import Usuario from "./usuario.js";
+import Usuario from "./Usuario.js";
 
 const usuario1 = new Usuario("Luis", new Date("2008-07-24"));
 const usuario2 = new Usuario("Vegetti", new Date("1988-10-15"));

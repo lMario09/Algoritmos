@@ -20,7 +20,7 @@ class Usuario {
     }
 
     deixarDeSeguirUsuario(usuario) {
-
+        
     }
 }
 
